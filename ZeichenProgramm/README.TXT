@@ -6,9 +6,9 @@ alles, was er/sie wissen muss. Üblicherweise sollte der Kommentar
 zumindest die folgenden Angaben umfassen:
 ------------------------------------------------------------------------
 
-PROJEKTBEZEICHNUNG:
-PROJEKTZWECK:
-VERSION oder DATUM:
+PROJEKTBEZEICHNUNG:Zeichenprogramm-in-BlueJ
+PROJEKTZWECK: Schulisch
+VERSION oder DATUM:0.01
 WIE IST DAS PROJEKT ZU STARTEN:
-AUTOR(EN):
-BENUTZERHINWEISE:
+AUTOR(EN): susi2005kg
+BENUTZERHINWEISE: Development state..... Actually not working :-)
