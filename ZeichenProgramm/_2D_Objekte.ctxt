@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=_2D_Objekte
+comment0.text=\r\n\ @author\r\n\ @version\r\n
+comment1.params=
+comment1.target=_2D_Objekte()
+comment2.params=
+comment2.target=void\ farbeaendern()
+comment3.params=
+comment3.target=void\ sichtbarmachen()
+comment4.params=
+comment4.target=void\ drehen()
+comment5.params=
+comment5.target=void\ ausfuellen()
+numComments=6
