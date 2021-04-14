@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Zeichenprogramm
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Zeichenprogramm\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n\ \r\n\ Diese\ grafische\ Oberfl\u00E4che\ f\u00FCr\ unser\ Zeichenprogramm\ enth\u00E4lt\ eine\ Zeichenfl\u00E4che\ (ein\ sogenanntes\ Canvas-Objekt)\ \r\n\ und\ einen\ Stift\ (ein\ Objekt\ der\ Klasse\ Graphics\ bzw.\ Graphics2D).\ \r\n\ Mit\ dem\ Stift\ k\u00F6nnen\ wir\ auf\ der\ Zeichenfl\u00E4che\ verschiedene\ Figuren\ zeichnen.\ \r\n\ Die\ dazu\ notwendigen\ Methoden\ k\u00F6nnen\ wir\ in\ der\ Java\ API\ finden,\ und\ zwar\ unter\ den\ beiden\ folgenden\ Links\:\r\n\ https\://docs.oracle.com/en/java/javase/15/docs/api/java.desktop/java/awt/Graphics.html\r\n\ https\://docs.oracle.com/en/java/javase/15/docs/api/java.desktop/java/awt/Graphics2D.html\r\n\ \r\n\ In\ dieser\ erweiterten\ Basisversion\ gibt\ es\ au\u00DFer\ dem\ Zeichenprogramm\ die\ drei\ Klassen\ _2DObjekt,\ Ellipse\ und\ Kreis.\r\n\ Die\ Klasse\ _2DObjekt\ ist\ eine\ abstrakte\ Klasse,\ von\ ihr\ k\u00F6nnen\ keine\ Objekte\ direkt\ erzeugt\ werden.\r\n\ Sie\ vererbt\ aber\ alle\ Attribute\ und\ Methoden\ an\ ihre\ Unterklasse\ Ellipse\ und\ diese\ vererbt\ diese\ weiter\ an\ ihre\ \r\n\ Unterklasse\ Kreis.\ \r\n\ \r\n\ Teste\ das\ Programm,\ indem\ du\ zuerst\ ein\ Objekt\ der\ Klasse\ Zeichenprogramm\ erzeugst\ und\ dann\ auf\ den\ Button\ mit\ der\ \r\n\ Aufschrift\ Kreis\ klickst.\r\n\ \r\n\ Schaue\ dir\ danach\ den\ Quellcode\ aller\ vier\ Klassen\ genau\ an\ und\ versuche\ nachzuvollziehen,\ wie\ das\ Zeichnen\ des\ Kreises\r\n\ funktioniert.\ \u00DCberlege,\ warum\ es\ sinnvoll\ ist,\ eine\ Klasse\ Kreis\ zu\ verwenden,\ wenn\ wir\ doch\ den\ Befehl\ drawOval\ auch\ \r\n\ direkt\ in\ die\ Methode\ actionPerformed\ des\ Buttons\ Kreis\ h\u00E4tten\ schreiben\ k\u00F6nnen.\r\n\ \r\n\ Erg\u00E4nze\ nun\ in\ der\ Programmoberfl\u00E4che\ einen\ Button\ zum\ Zeichnen\ einer\ Ellipse.\ Auch\ hier\ soll\ erst\ einmal\ eine\ Ellipse\r\n\ mit\ festen\ Werten\ gezeichnet\ werden,\ z.B.\ mit\ der\ Farbe\ rot\ an\ der\ Position\ x\ \=\ 1,\ y\ \=\ 1,\ mit\ der\ Breite\ 100\ und\ der\ H\u00F6he\ 50.\r\n\ Sp\u00E4ter\ werden\ wir\ das\ Programm\ dann\ so\ verbessern,\ dass\ der\ Benutzer\ diese\ Werte\ selbst\ ausw\u00E4hlen\ kann.\r\n
+comment1.params=
+comment1.target=Zeichenprogramm()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Zeichenprogramm\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=5

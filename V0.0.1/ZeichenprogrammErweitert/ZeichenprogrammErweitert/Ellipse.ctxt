@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ellipse
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Ellipse.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=pFarbe\ pX\ pY\ pBreite\ pHoehe
+comment1.target=Ellipse(java.awt.Color,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Ellipse\r\n
+comment2.params=pStift
+comment2.target=void\ zeichne(java.awt.Graphics)
+numComments=3
